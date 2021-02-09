@@ -1,7 +1,7 @@
 site_name: Broggio_Elia
 
 nav:
-     -"MD": 'Default.md'
+     - 'MD': 'Default.md'
   
 theme:
       name: readthedocs
